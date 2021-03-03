@@ -1,6 +1,6 @@
 # Werteliste für Schulfächer
 
-URI: TODO (Weiterleitung über w3id einrichten)
+URI: TODO (Weiterleitung über w3id.org einrichten)
 
 Werteliste für Schulfächer in der deutschen Bildungslandschaft, gepflegt von der [OER-Metadatengruppe der DINI-AG-KIM](https://wiki.dnb.de/x/IQ30B).
 
