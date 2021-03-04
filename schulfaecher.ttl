@@ -15,7 +15,7 @@
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     vann:preferredNamespaceUri "https://w3id.org/kim/schulfaecher/" ;
     vann:preferredNamespacePrefix "subj";
-    skos:hasTopConcept <s1000>, <s1002>, <s1003>, <s1004>, <s1005>, <s1006>, <s1007>,
+    skos:hasTopConcept <s1000>, <s1001>, <s1002>, <s1003>, <s1004>, <s1005>, <s1006>, <s1007>,
         <s1008>, <s1009>, <s1010>, <s1011>, <s1012>, <s1013>, <s1014>,
         <s1015>, <s1016>, <s1017>, <s1018>, <s1019>, <s1020>, <s1021>,
         <s1022>, <s1023>, <s1024>, <s1025>, <s1026>, <s1027>, <s1028>,
@@ -28,61 +28,61 @@
     skos:relatedMatch oeh:20003 ;
     skos:topConceptOf <> .
 
-<s1002> a skos:Concept ;
+<s1001> a skos:Concept ;
     skos:prefLabel "Biologie"@de ;
     skos:relatedMatch eafsys:080 ;
     skos:relatedMatch oeh:080 ;
     skos:topConceptOf <> .
 
-<s1003> a skos:Concept ;
+<s1002> a skos:Concept ;
     skos:prefLabel "Chemie"@de ;
     skos:relatedMatch eafsys:100 ;
     skos:relatedMatch oeh:100 ;
     skos:topConceptOf <> .
 
-<s1004> a skos:Concept ;
+<s1003> a skos:Concept ;
     skos:prefLabel "Chinesisch"@de ;
     skos:topConceptOf <> .
 
-<s1005> a skos:Concept ;
+<s1004> a skos:Concept ;
     skos:prefLabel "Darstellendes Spiel"@de ;
     skos:relatedMatch eafsys:12002 ;
     skos:relatedMatch oeh:12002 ;
     skos:topConceptOf <> .
 
-<s1006> a skos:Concept ;
+<s1005> a skos:Concept ;
     skos:prefLabel "Deutsch"@de ;
     skos:altLabel "Muttersprache"@de ;
     skos:relatedMatch eafsys:120 ;
     skos:relatedMatch oeh:120 ;
     skos:topConceptOf <> .
 
-<s1007> a skos:Concept ;
+<s1006> a skos:Concept ;
     skos:prefLabel "Deutsch als Zweitsprache"@de ;
     skos:altLabel "DaZ"@de ;
     skos:relatedMatch eafsys:12005 ;
     skos:relatedMatch oeh:12005 ;
     skos:topConceptOf <> .
 
-<s1008> a skos:Concept ;
+<s1007> a skos:Concept ;
     skos:prefLabel "Englisch"@de ;
     skos:relatedMatch eafsys:20001 ;
     skos:relatedMatch oeh:20001 ;
     skos:topConceptOf <> .
 
-<s1009> a skos:Concept ;
+<s1008> a skos:Concept ;
     skos:prefLabel "Ethik"@de ;
     skos:relatedMatch eafsys:160 ;
     skos:relatedMatch oeh:160 ;
     skos:topConceptOf <> .
 
-<s1010> a skos:Concept ;
+<s1009> a skos:Concept ;
     skos:prefLabel "Französisch"@de ;
     skos:relatedMatch eafsys:20002 ;
     skos:relatedMatch oeh:20002 ;
     skos:topConceptOf <> .
 
-<s1011> a skos:Concept ;
+<s1010> a skos:Concept ;
     skos:prefLabel "Geografie"@de ;
     skos:altLabel "Erdkunde"@de ;
     skos:altLabel "Geographie"@de ;
@@ -90,53 +90,53 @@
     skos:relatedMatch oeh:220 ;
     skos:topConceptOf <> .
 
-<s1012> a skos:Concept ;
+<s1011> a skos:Concept ;
     skos:prefLabel "Geschichte"@de ;
     skos:relatedMatch eafsys:20002 ;
     skos:relatedMatch oeh:20002 ;
     skos:topConceptOf <> .
 
-<s1013> a skos:Concept ;
+<s1012> a skos:Concept ;
     skos:prefLabel "Gesundheit"@de ;
     skos:altLabel "Gesundheitserziehung"@de ;
     skos:relatedMatch eafsys:260 ;
     skos:relatedMatch oeh:260 ;
     skos:topConceptOf <> .
 
-<s1014> a skos:Concept ;
+<s1013> a skos:Concept ;
     skos:prefLabel "Informatik"@de ;
     skos:altLabel "Informations- und Kommunikationstechnologie"@de ;
     skos:relatedMatch eafsys:320 ;
     skos:relatedMatch oeh:320 ;
     skos:topConceptOf <> .
 
-<s1015> a skos:Concept ;
+<s1014> a skos:Concept ;
     skos:prefLabel "Italienisch"@de ;
     skos:relatedMatch eafsys:20004 ;
     skos:relatedMatch oeh:20004 ;
     skos:topConceptOf <> .
 
-<s1016> a skos:Concept ;
+<s1015> a skos:Concept ;
     skos:prefLabel "Kunst"@de ;
     skos:altLabel "Kunsterziehung"@de ;
     skos:relatedMatch eafsys:060 ;
     skos:relatedMatch oeh:060 ;
     skos:topConceptOf <> .
 
-<s1017> a skos:Concept ;
+<s1016> a skos:Concept ;
     skos:prefLabel "Latein"@de ;
     skos:relatedMatch eafsys:20005 ;
     skos:relatedMatch oeh:20005 ;
     skos:topConceptOf <> .
 
-<s1018> a skos:Concept ;
+<s1017> a skos:Concept ;
     skos:prefLabel "Mathematik"@de ;
     skos:altLabel "Mathe"@de ;
     skos:relatedMatch eafsys:380 ;
     skos:relatedMatch oeh:380 ;
     skos:topConceptOf <> .
 
-<s1019> a skos:Concept ;
+<s1018> a skos:Concept ;
     skos:prefLabel "Mediendidaktik"@de ;
     skos:altLabel "Medienerziehung"@de ;
     skos:definition "Mediendidaktik befasst sich mit der Erziehung durch Medien"@de ;
@@ -145,7 +145,7 @@
     skos:editorialNote "Auf EAF-Sachgebietssystematik 'Medienpädagogik'(400) gemapped."@de ;
     skos:topConceptOf <> .
 
-<s1020> a skos:Concept ;
+<s1019> a skos:Concept ;
     skos:prefLabel "MINT"@de ;
     skos:altLabel "Chemie, Physik, Biologie"@de ;
     skos:altLabel "Naturwissenschaften"@de ;
@@ -154,34 +154,41 @@
     skos:relatedMatch eafsys:100, eafsys:080, eafsys:460, eafsys:380, eafsys:320 ;
     skos:topConceptOf <> .
 
-<s1021> a skos:Concept ;
+<s1020> a skos:Concept ;
     skos:prefLabel "Musik"@de ;
     skos:relatedMatch eafsys:420 ;
     skos:relatedMatch oeh:420 ;
     skos:topConceptOf <> .
 
-<s1022> a skos:Concept ;
+<s1021> a skos:Concept ;
     skos:prefLabel "Philosophie"@de ;
     skos:relatedMatch eafsys:450 ;
     skos:relatedMatch oeh:450 ;
     skos:topConceptOf <> .
 
-<s1023> a skos:Concept ;
+<s1022> a skos:Concept ;
     skos:prefLabel "Physik"@de ;
     skos:relatedMatch eafsys:460 ;
     skos:relatedMatch oeh:460 ;
     skos:topConceptOf <> .
 
-<s1024> a skos:Concept ;
+<s1023> a skos:Concept ;
     skos:prefLabel "Politik"@de ;
     skos:altLabel "Politische Bildung"@de ;
     skos:relatedMatch eafsys:480 ;
     skos:relatedMatch oeh:480 ;
     skos:topConceptOf <> .
 
-<s1025> a skos:Concept ;
+<s1024> a skos:Concept ;
     skos:prefLabel "Religionslehre (evangelische)"@de ;
     skos:altLabel "Evangelischer Religionsunterricht"@de ;
+    skos:relatedMatch eafsys:520 ;
+    skos:relatedMatch oeh:520 ;
+    skos:topConceptOf <> .
+
+<s1025> a skos:Concept ;
+    skos:prefLabel "Religionslehre (islamisch)"@de ;
+    skos:altLabel "Islamischer Religionsunterricht"@de ;
     skos:relatedMatch eafsys:520 ;
     skos:relatedMatch oeh:520 ;
     skos:topConceptOf <> .
