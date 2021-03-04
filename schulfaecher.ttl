@@ -149,7 +149,7 @@
     skos:prefLabel "MINT"@de ;
     skos:altLabel "Chemie, Physik, Biologie"@de ;
     skos:altLabel "Naturwissenschaften"@de ;
-    skos:related <s1003>, <s1023>, <s1002>, <s1008>, <s1014> ;
+    skos:related <s1001>, <s1002>, <s1013>, <s1017>, <s1022> ;
     skos:topConceptOf <> .
 
 <s1020> a skos:Concept ;
