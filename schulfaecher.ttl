@@ -150,8 +150,6 @@
     skos:altLabel "Chemie, Physik, Biologie"@de ;
     skos:altLabel "Naturwissenschaften"@de ;
     skos:related <s1003>, <s1023>, <s1002>, <s1008>, <s1014> ;
-    skos:relatedMatch oeh:100, oeh:080, oeh:460, oeh:380, oeh:320 ;
-    skos:relatedMatch eafsys:100, eafsys:080, eafsys:460, eafsys:380, eafsys:320 ;
     skos:topConceptOf <> .
 
 <s1020> a skos:Concept ;
