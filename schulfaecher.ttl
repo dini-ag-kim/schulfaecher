@@ -172,7 +172,7 @@
 
 <s1023> a skos:Concept ;
     skos:prefLabel "Politik"@de ;
-    skos:altLabel "Politische Bildung"@de ;
+    skos:altLabel "Politische Bildung"@de, "Sozialkunde"@de ;
     skos:closeMatch eafsys:480 ;
     skos:closeMatch oeh:480 ;
     skos:topConceptOf <> .
@@ -241,4 +241,3 @@
     skos:closeMatch eafsys:700 ;
     skos:closeMatch oeh:700 ;
     skos:topConceptOf <> .
-
