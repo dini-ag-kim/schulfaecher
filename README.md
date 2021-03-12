@@ -40,7 +40,7 @@ Die Werteliste ist ein SKOS-Vokabular und enthält Relationen (`skos:closeMatch`
 | s1025 | "Religionslehre (islamisch)" | "Islamischer Religionsunterricht"
 | s1026 | "Religionslehre (katholische)" | "Katholischer Religionsunterricht"
 | s1027 | "Russisch"
-| s1028 | "Sachunterricht" | "Heimatunterricht"
+| s1028 | "Sachunterricht" | "Heimatunterricht", "Sachkunde"
 | s1029 | "Sexualerziehung"
 | s1030 | "Spanisch"
 | s1031 | "Sport"
