@@ -52,7 +52,6 @@
 
 <s1005> a skos:Concept ;
     skos:prefLabel "Deutsch"@de ;
-    skos:altLabel "Muttersprache"@de ;
     skos:closeMatch eafsys:120 ;
     skos:closeMatch oeh:120 ;
     skos:topConceptOf <> .
@@ -84,8 +83,7 @@
 
 <s1010> a skos:Concept ;
     skos:prefLabel "Geografie"@de ;
-    skos:altLabel "Erdkunde"@de ;
-    skos:altLabel "Geographie"@de ;
+    skos:altLabel "Erdkunde"@de, "Geographie"@de ;
     skos:closeMatch eafsys:220 ;
     skos:closeMatch oeh:220 ;
     skos:topConceptOf <> .
@@ -118,7 +116,7 @@
 
 <s1015> a skos:Concept ;
     skos:prefLabel "Kunst"@de ;
-    skos:altLabel "Kunsterziehung"@de ;
+    skos:altLabel "Bildende Kunst"@de ;
     skos:closeMatch eafsys:060 ;
     skos:closeMatch oeh:060 ;
     skos:topConceptOf <> .
@@ -131,7 +129,6 @@
 
 <s1017> a skos:Concept ;
     skos:prefLabel "Mathematik"@de ;
-    skos:altLabel "Mathe"@de ;
     skos:closeMatch eafsys:380 ;
     skos:closeMatch oeh:380 ;
     skos:topConceptOf <> .
@@ -216,7 +213,6 @@
 
 <s1031> a skos:Concept ;
     skos:prefLabel "Sport"@de ;
-    skos:altLabel "Sportunterricht"@de ;
     skos:closeMatch eafsys:600 ;
     skos:closeMatch oeh:600 ;
     skos:topConceptOf <> .
