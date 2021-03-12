@@ -17,7 +17,7 @@
     vann:preferredNamespacePrefix "subj";
     skos:hasTopConcept <s1000>, <s1001>, <s1002>, <s1003>, <s1004>, <s1005>, <s1006>, <s1007>,
         <s1008>, <s1009>, <s1010>, <s1011>, <s1012>, <s1013>, <s1014>,
-        <s1015>, <s1016>, <s1017>, <s1018>, <s1019>, <s1020>, <s1021>,
+        <s1015>, <s1016>, <s1017>, <s1019>, <s1020>, <s1021>,
         <s1022>, <s1023>, <s1024>, <s1025>, <s1026>, <s1027>, <s1028>,
         <s1029>, <s1030>, <s1031>, <s1032>, <s1033>
         .
@@ -134,15 +134,6 @@
     skos:altLabel "Mathe"@de ;
     skos:closeMatch eafsys:380 ;
     skos:closeMatch oeh:380 ;
-    skos:topConceptOf <> .
-
-<s1018> a skos:Concept ;
-    skos:prefLabel "Mediendidaktik"@de ;
-    skos:altLabel "Medienerziehung"@de ;
-    skos:definition "Mediendidaktik befasst sich mit der Erziehung durch Medien"@de ;
-    skos:closeMatch eafsys:400 ;
-    skos:closeMatch oeh:400 ;
-    skos:editorialNote "Auf EAF-Sachgebietssystematik 'Medienpädagogik'(400) gemapped."@de ;
     skos:topConceptOf <> .
 
 <s1019> a skos:Concept ;
