@@ -1,13 +1,27 @@
 # Werteliste für Schulfächer
 
-URI: TODO (Weiterleitung über w3id.org einrichten)
-
-Werteliste für Schulfächer in der deutschen Bildungslandschaft, gepflegt von der [OER-Metadatengruppe der DINI-AG-KIM](https://wiki.dnb.de/x/IQ30B).
+Werteliste für Schulfächer in der deutschen Bildungslandschaft, gepflegt von der [OER-Metadatengruppe](https://wiki.dnb.de/x/IQ30B) und der [Curricula-Gruppe] (https://wiki.dnb.de/display/DINIAGKIM/Curricula-Gruppe) der DINI-AG-KIM.
 
 Die Werteliste ist ein SKOS-Vokabular und enthält Relationen (`skos:closeMatch`) zu der [EAF-Sachgebietssystematik](http://agmud.de/sachgebietssystematik/) der [AG-MUD](agmud.de) und der [OpenEduHub-Fächersystematik](http://w3id.org/openeduhub/vocabs/discipline) (Hinweis: Die Sachgebietssystematik der AG-MUD liegt nicht selbst in SKOS vor, sondern wurde basierend auf der XLSX-Datei konvertiert: https://github.com/openeduhub/oeh-metadata-eaf-sachgebietssystematiken).
 
-**Mitarbeit und Kontakt** über [Issues](https://github.com/dini-ag-kim/hcrt/issues/), die [Mailingliste der OER-Metadatengruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-oer) oder die [Mailingliste der Curricula-Gruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-curricula).
+## Maintainer\*innen
 
+[Steffen Rörtgen](https://github.com/sroertgen) und [Adrian Pohl](https://github.com/acka47)
+
+**Mitarbeit und Kontakt** über [Issues](https://github.com/dini-ag-kim/schulfaecher/issues/), die [Mailingliste der OER-Metadatengruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-oer) oder die [Mailingliste der Curricula-Gruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-curricula).
+
+## Status
+
+Entwurf
+
+## Entwicklung und Publikation
+
+In der Entwicklung des Vokabulars nutzen wir die [StöberSpecs](https://w3id.org/kim/stoeberspecs/)-Wekzeuge und -Prozesse. Das Vokabular wird in diesem [GitHub Repo](https://github.com/dini-ag-kim/schulfaecher) in der Datei [schulfaecher.ttl](https://github.com/dini-ag-kim/schulfaecher/blob/master/schulfaecher.ttl) versioniert und gepflegt. Als Beschreibungssprache wird das [Simple Knowledge Organization System (SKOS)](https://www.w3.org/2004/02/skos/) in [Turtle](https://www.w3.org/TR/turtle/)-Syntax verwendet.
+
+## Mitarbeit und Kontakt
+
+Mitarbeit und Kontakt findet am besten statt über [Issues](https://github.com/dini-ag-kim/schulfaecher/issues) die [Mailingliste der OER-Metadatengruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-oer) oder die [Mailingliste der Curricula-Gruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-curricula).
+B).
 
 ## Glossar
 
