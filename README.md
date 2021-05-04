@@ -1,6 +1,6 @@
-# Werteliste für Schulfächer
+# Werteliste für allgemeinbildende Schulfächer
 
-Werteliste für Schulfächer in der deutschen Bildungslandschaft, gepflegt von der [OER-Metadatengruppe](https://wiki.dnb.de/x/IQ30B) und der [Curricula-Gruppe] (https://wiki.dnb.de/display/DINIAGKIM/Curricula-Gruppe) der DINI-AG-KIM.
+Werteliste allgemeinbildender Schulfächer allgemeinbildender und beruflicher Schulen in der deutschen Bildungslandschaft, gepflegt von der [OER-Metadatengruppe](https://wiki.dnb.de/x/IQ30B) und der [Curricula-Gruppe](https://wiki.dnb.de/display/DINIAGKIM/Curricula-Gruppe) der DINI-AG-KIM.
 
 Die Werteliste ist ein SKOS-Vokabular und enthält Relationen (`skos:closeMatch`) zu der [EAF-Sachgebietssystematik](http://agmud.de/sachgebietssystematik/) der [AG-MUD](agmud.de) und der [OpenEduHub-Fächersystematik](http://w3id.org/openeduhub/vocabs/discipline) (Hinweis: Die Sachgebietssystematik der AG-MUD liegt nicht selbst in SKOS vor, sondern wurde basierend auf der XLSX-Datei konvertiert: https://github.com/openeduhub/oeh-metadata-eaf-sachgebietssystematiken).
 
@@ -25,13 +25,15 @@ B).
 
 ## Glossar
 
+Sortiert nach den vergebenen IDs. Für eine alphabetische Sortierung siehe [das veröffentlichte Vokabular](https://skohub.io/dini-ag-kim/schulfaecher/heads/main/w3id.org/kim/schulfaecher/).
+
 | ID    | Vorzugsbezeichnung  | Alternativbezeichnungen   |
 |-------|-------------------  | --------                  |
 | s1000 | "Alt-Griechisch"
 | s1001 | "Biologie"
 | s1002 | "Chemie"
 | s1003 | "Chinesisch"
-| s1004 | "Darstellendes Spiel"
+| s1004 | "Darstellendes Spiel" | "Theater" |
 | s1005 | "Deutsch"
 | s1006 | "Deutsch als Zweitsprache" | "DaZ"
 | s1007 | "Englisch"
@@ -45,7 +47,7 @@ B).
 | s1015 | "Kunst" | "Bildende Kunst"
 | s1016 | "Latein"
 | s1017 | "Mathematik"
-| s1019 | "MINT"
+| s1019 | "MINT" | "Naturwissenschaften" |
 | s1020 | "Musik"
 | s1021 | "Philosophie"
 | s1022 | "Physik"
@@ -60,3 +62,17 @@ B).
 | s1031 | "Sport"
 | s1032 | "Türkisch"
 | s1033 | "Wirtschaftskunde"
+| s1034 | "Hebräisch" |
+| s1035 | "Japanisch" |
+| s1036 | "Neugriechisch" |
+| s1037 | "Polnisch" |
+| s1038 | "Portugiesisch" |
+| s1039 | "Sorbisch" | "Wendisch" |
+| s1040 | "Astronomie" |
+| s1041 | "Deutsche Gebärdensprache" |
+| s1042 | "Gesellschaftswissenschaften" |
+| s1043 | "Psychologie" |
+| s1044 | "Ernährung" |
+| s1045 | "Erziehungswissenschaften" | "Pädagogik" |
+| s1046 | "Medienbildung" | 
+| s1047 | "Hauswirtschaft" |

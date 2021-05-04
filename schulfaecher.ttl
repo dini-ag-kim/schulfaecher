@@ -15,17 +15,23 @@
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     vann:preferredNamespaceUri "https://w3id.org/kim/schulfaecher/" ;
     vann:preferredNamespacePrefix "subj";
-    skos:hasTopConcept <s1000>, <s1001>, <s1002>, <s1003>, <s1004>, <s1005>, <s1006>, <s1007>,
-        <s1008>, <s1009>, <s1010>, <s1011>, <s1012>, <s1013>, <s1014>,
-        <s1015>, <s1016>, <s1017>, <s1019>, <s1020>, <s1021>,
-        <s1022>, <s1023>, <s1024>, <s1025>, <s1026>, <s1027>, <s1028>,
-        <s1029>, <s1030>, <s1031>, <s1032>, <s1033>
+    skos:hasTopConcept <s1000>, <s1040>, <s1001>, <s1002>, <s1003>, <s1004>, 
+        <s1005>, <s1006>, <s1041>, <s1007>, <s1044>, <s1045>, <s1008>,
+        <s1009>, <s1010>, <s1011>, <s1012>, <s1047>, <s1034>, <s1013>, <s1014>,
+        <s1035>, <s1015>, <s1016>, <s1017>, <s1046>, <s1019>, <s1020>, <s1036>, 
+        <s1021>, <s1022>, <s1023>, <s1037>, <s1038>, <s1043>, <s1024>, <s1025>, 
+        <s1026>, <s1027>, <s1028>, <s1029>, <s1039>, <s1030>, <s1031>, <s1032>, 
+        <s1033>
         .
 
 <s1000> a skos:Concept ;
     skos:prefLabel "Alt-Griechisch"@de ;
     skos:closeMatch eafsys:20003 ;
     skos:closeMatch oeh:20003 ;
+    skos:topConceptOf <> .
+
+<s1040> a skos:Concept ;
+    skos:prefLabel "Astronomie"@de ;
     skos:topConceptOf <> .
 
 <s1001> a skos:Concept ;
@@ -46,6 +52,7 @@
 
 <s1004> a skos:Concept ;
     skos:prefLabel "Darstellendes Spiel"@de ;
+    skos:altLabel "Theater"@de ;
     skos:closeMatch eafsys:12002 ;
     skos:closeMatch oeh:12002 ;
     skos:topConceptOf <> .
@@ -65,6 +72,10 @@
     skos:closeMatch oeh:12005 ;
     skos:topConceptOf <> .
 
+<s1041> a skos:Concept ;
+    skos:prefLabel "Deutsche Gebärdensprache"@de ;
+    skos:topConceptOf <> .
+
 <s1007> a skos:Concept ;
     skos:prefLabel "Englisch"@de ;
     skos:closeMatch eafsys:20001 ;
@@ -72,8 +83,18 @@
     skos:closeMatch oeh:20001 ;
     skos:topConceptOf <> .
 
+<s1044> a skos:Concept ;
+    skos:prefLabel "Ernährung"@de ;
+    skos:topConceptOf <> .
+
+<s1045> a skos:Concept ;
+    skos:prefLabel "Erziehungswissenschaften"@de ;
+    skos:altLabel "Pädagogik"@de ;
+    skos:topConceptOf <> .
+
 <s1008> a skos:Concept ;
     skos:prefLabel "Ethik"@de ;
+    skos:altLabel "Werte und Normen"@de ;
     skos:closeMatch eafsys:160 ;
     skos:closeMatch eafsys:28004 ;
     skos:closeMatch oeh:160 ;
@@ -99,11 +120,23 @@
     skos:closeMatch oeh:20002 ;
     skos:topConceptOf <> .
 
+<s1042> a skos:Concept ;
+    skos:prefLabel "Gesellschaftswissenschaften"@de ;
+    skos:topConceptOf <> .
+
 <s1012> a skos:Concept ;
     skos:prefLabel "Gesundheit"@de ;
     skos:altLabel "Gesundheitserziehung"@de ;
     skos:closeMatch eafsys:260 ;
     skos:closeMatch oeh:260 ;
+    skos:topConceptOf <> .
+
+<s1047> a skos:Concept ;
+    skos:prefLabel "Hauswirtschaft"@de ;
+    skos:topConceptOf <> .
+
+<s1034> a skos:Concept ;
+    skos:prefLabel "Hebräisch"@de ;
     skos:topConceptOf <> .
 
 <s1013> a skos:Concept ;
@@ -118,6 +151,10 @@
     skos:closeMatch eafsys:20004 ;
     skos:closeMatch eafsys:2800503 ;
     skos:closeMatch oeh:20004 ;
+    skos:topConceptOf <> .
+
+<s1035> a skos:Concept ;
+    skos:prefLabel "Japanisch"@de ;
     skos:topConceptOf <> .
 
 <s1015> a skos:Concept ;
@@ -141,6 +178,10 @@
     skos:closeMatch oeh:380 ;
     skos:topConceptOf <> .
 
+<s1046> a skos:Concept ;
+    skos:prefLabel "Medienbildung"@de ;
+    skos:topConceptOf <> .
+
 <s1019> a skos:Concept ;
     skos:prefLabel "MINT"@de ;
     skos:altLabel "Chemie, Physik, Biologie"@de ;
@@ -153,6 +194,10 @@
     skos:closeMatch eafsys:420 ;
     skos:closeMatch eafsys:28008 ;
     skos:closeMatch oeh:420 ;
+    skos:topConceptOf <> .
+
+<s1036> a skos:Concept ;
+    skos:prefLabel "Neugriechisch"@de ;
     skos:topConceptOf <> .
 
 <s1021> a skos:Concept ;
@@ -172,6 +217,18 @@
     skos:altLabel "Politische Bildung"@de, "Sozialkunde"@de ;
     skos:closeMatch eafsys:480 ;
     skos:closeMatch oeh:480 ;
+    skos:topConceptOf <> .
+
+<s1037> a skos:Concept ;
+    skos:prefLabel "Polnisch"@de ;
+    skos:topConceptOf <> .
+
+<s1038> a skos:Concept ;
+    skos:prefLabel "Portugiesisch"@de ;
+    skos:topConceptOf <> .
+
+<s1043> a skos:Concept ;
+    skos:prefLabel "Psychologie"@de ;
     skos:topConceptOf <> .
 
 <s1024> a skos:Concept ;
@@ -217,6 +274,11 @@
     skos:prefLabel "Sexualerziehung"@de ;
     skos:closeMatch eafsys:560 ;
     skos:closeMatch oeh:560 ;
+    skos:topConceptOf <> .
+
+<s1039> a skos:Concept ;
+    skos:prefLabel "Sorbisch"@de ;
+    skos:altLabel "Wendisch"@de ;
     skos:topConceptOf <> .
 
 <s1030> a skos:Concept ;
