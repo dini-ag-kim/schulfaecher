@@ -76,3 +76,4 @@ Sortiert nach den vergebenen IDs. Für eine alphabetische Sortierung siehe [das 
 | s1045 | "Erziehungswissenschaften" | "Pädagogik" |
 | s1046 | "Medienbildung" | 
 | s1047 | "Hauswirtschaft" |
+ 
