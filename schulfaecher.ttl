@@ -32,6 +32,7 @@
 
 <s1040> a skos:Concept ;
     skos:prefLabel "Astronomie"@de ;
+    skos:closeMatch oeh:46014 ;
     skos:topConceptOf <> .
 
 <s1001> a skos:Concept ;
@@ -48,6 +49,7 @@
 
 <s1003> a skos:Concept ;
     skos:prefLabel "Chinesisch"@de ;
+    skos:closeMatch oeh:20041 ;
     skos:topConceptOf <> .
 
 <s1004> a skos:Concept ;
@@ -69,7 +71,7 @@
     skos:altLabel "DaZ"@de ;
     skos:closeMatch eafsys:12005 ;
     skos:closeMatch eafsys:28002 ;
-    skos:closeMatch oeh:12005 ;
+    skos:closeMatch oeh:28002 ;
     skos:topConceptOf <> .
 
 <s1041> a skos:Concept ;
@@ -85,6 +87,7 @@
 
 <s1044> a skos:Concept ;
     skos:prefLabel "Ernährung"@de ;
+    skos:closeMatch oeh:04006 ;
     skos:topConceptOf <> .
 
 <s1045> a skos:Concept ;
@@ -116,12 +119,13 @@
 
 <s1011> a skos:Concept ;
     skos:prefLabel "Geschichte"@de ;
-    skos:closeMatch eafsys:20002 ;
-    skos:closeMatch oeh:20002 ;
+    skos:closeMatch eafsys:240 ;
+    skos:closeMatch oeh:240 ;
     skos:topConceptOf <> .
 
 <s1042> a skos:Concept ;
     skos:prefLabel "Gesellschaftswissenschaften"@de ;
+    skos:closeMatch oeh:48005 ;
     skos:topConceptOf <> .
 
 <s1012> a skos:Concept ;
@@ -133,6 +137,7 @@
 
 <s1047> a skos:Concept ;
     skos:prefLabel "Hauswirtschaft"@de ;
+    skos:closeMatch oeh:50001 ;
     skos:topConceptOf <> .
 
 <s1034> a skos:Concept ;
@@ -180,6 +185,7 @@
 
 <s1046> a skos:Concept ;
     skos:prefLabel "Medienbildung"@de ;
+    skos:closeMatch oeh:900 ;
     skos:topConceptOf <> .
 
 <s1019> a skos:Concept ;
@@ -187,6 +193,7 @@
     skos:altLabel "Chemie, Physik, Biologie"@de ;
     skos:altLabel "Naturwissenschaften"@de ;
     skos:related <s1001>, <s1002>, <s1013>, <s1017>, <s1022> ;
+    skos:closeMatch oeh:04003 ;
     skos:topConceptOf <> .
 
 <s1020> a skos:Concept ;
@@ -229,6 +236,7 @@
 
 <s1043> a skos:Concept ;
     skos:prefLabel "Psychologie"@de ;
+    skos:closeMatch oeh:510 ;
     skos:topConceptOf <> .
 
 <s1024> a skos:Concept ;
@@ -279,6 +287,7 @@
 <s1039> a skos:Concept ;
     skos:prefLabel "Sorbisch"@de ;
     skos:altLabel "Wendisch"@de ;
+    skos:closeMatch oeh:20009 ;
     skos:topConceptOf <> .
 
 <s1030> a skos:Concept ;
