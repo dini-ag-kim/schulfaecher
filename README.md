@@ -2,7 +2,7 @@
 
 Werteliste allgemeinbildender Schulfächer allgemeinbildender und beruflicher Schulen in der deutschen Bildungslandschaft, gepflegt von der [OER-Metadatengruppe](https://wiki.dnb.de/x/IQ30B) und der [Curricula-Gruppe](https://wiki.dnb.de/display/DINIAGKIM/Curricula-Gruppe) der DINI-AG-KIM.
 
-Die Werteliste ist ein SKOS-Vokabular und enthält Relationen (`skos:closeMatch`) zu der [EAF-Sachgebietssystematik](http://agmud.de/sachgebietssystematik/) der [AG-MUD](agmud.de) und der [OpenEduHub-Fächersystematik](http://w3id.org/openeduhub/vocabs/discipline) (Hinweis: Die Sachgebietssystematik der AG-MUD liegt nicht selbst in SKOS vor, sondern wurde basierend auf der XLSX-Datei konvertiert: https://github.com/openeduhub/oeh-metadata-eaf-sachgebietssystematiken).
+Die Werteliste ist ein SKOS-Vokabular und enthält Relationen (`skos:closeMatch`) zu der [OpenEduHub-Fächersystematik](http://w3id.org/openeduhub/vocabs/discipline) 
 
 ## Maintainer\*innen
 
