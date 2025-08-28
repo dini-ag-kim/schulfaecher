@@ -12,7 +12,7 @@
     dct:publisher "DINI-AG-KIM OER-Metadatengruppe"@de ;
     dct:created "2021-03-03"^^xsd:date ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    vann:preferredNamespaceUri "https://w3id.org/kim/schulfaecher/" ;
+    vann:preferredNamespaceUri "http://w3id.org/kim/schulfaecher/" ;
     vann:preferredNamespacePrefix "subj";
     skos:hasTopConcept <s1000>, <s1040>, <s1001>, <s1002>, <s1003>, <s1004>, 
         <s1005>, <s1006>, <s1041>, <s1007>, <s1044>, <s1045>, <s1008>,
