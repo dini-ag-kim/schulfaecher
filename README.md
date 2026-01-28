@@ -47,11 +47,11 @@ Sortiert nach den vergebenen IDs. Für eine alphabetische Sortierung siehe [das 
 | s1015 | "Kunst" | "Bildende Kunst"
 | s1016 | "Latein"
 | s1017 | "Mathematik"
-| s1019 | "MINT" | "Naturwissenschaften" |
+| s1019 | "MINT" |
 | s1020 | "Musik"
 | s1021 | "Philosophie"
 | s1022 | "Physik"
-| s1023 | "Politik" | "Politische Bildung", "Sozialkunde"
+| s1023 | "Politik" | "Politische Bildung"
 | s1024 | "Religionslehre (evangelische)" | "Evangelischer Religionsunterricht"
 | s1025 | "Religionslehre (islamisch)" | "Islamischer Religionsunterricht"
 | s1026 | "Religionslehre (katholische)" | "Katholischer Religionsunterricht"
@@ -76,4 +76,18 @@ Sortiert nach den vergebenen IDs. Für eine alphabetische Sortierung siehe [das 
 | s1045 | "Erziehungswissenschaften" | "Pädagogik" |
 | s1046 | "Medienbildung" | 
 | s1047 | "Hauswirtschaft" |
+| s1048 | "Arbeitslehre" | "Arbeitswelt"
+| s1049 | "Berufs- und Studienorientierung" | "Berufliche Orientierung", "Beruf", "Studium und Beruf"
+| s1050 | "Fremdsprachen" | "Moderne Fremdsprachen", "Fortgeführte Fremdsprachen"
+| s1051 | "Herkunftssprachen" | "Herkunftssprachlicher Unterricht"
+| s1052 | "Naturwissenschaften" | "Angewandte Naturwissenschaften", "Chemie, Physik, Biologie"
+| s1053 | "Niederdeutsch" |
+| s1054 | "Recht" | "Rechtskunde"
+| s1055 | "Religion (konfessionslos)" | "Religion"
+| s1056 | "Religionslehre (alevitisch)" | "Alevitischer Religionsunterricht"
+| s1057 | "Religionslehre (jüdisch)" | "Jüdischer Religionsunterricht"
+| s1058 | "Sozialkunde" | "Soziales", "Sozialwissenschaft"
+| s1059 | "Technik" |
+| s1060 | "Textiles Gestalten" | "Textilgestaltung", "Textillehre"
+| s1061 | "Werken und Gestalten" | "Gestaltendes Werken", "Werken", "Gestalten", "Planen, Bauen und Gestalten"
  
