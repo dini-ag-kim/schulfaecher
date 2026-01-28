@@ -14,13 +14,13 @@
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     vann:preferredNamespaceUri "https://w3id.org/kim/schulfaecher/" ;
     vann:preferredNamespacePrefix "subj";
-    skos:hasTopConcept <s1000>, <s1040>, <s1001>, <s1002>, <s1003>, <s1004>, 
-        <s1005>, <s1006>, <s1041>, <s1007>, <s1044>, <s1045>, <s1008>,
-        <s1009>, <s1010>, <s1011>, <s1012>, <s1047>, <s1034>, <s1013>, <s1014>,
-        <s1035>, <s1015>, <s1016>, <s1017>, <s1046>, <s1019>, <s1020>, <s1036>, 
-        <s1021>, <s1022>, <s1023>, <s1037>, <s1038>, <s1043>, <s1024>, <s1025>, 
-        <s1026>, <s1027>, <s1028>, <s1029>, <s1039>, <s1030>, <s1031>, <s1032>, 
-        <s1033>
+    skos:hasTopConcept <s1000>, <s1048>, <s1040>, <s1049>, <s1001>, <s1002>, <s1003>, <s1004>, 
+        <s1005>, <s1006>, <s1041>, <s1007>, <s1044>, <s1045>, <s1008>, <s1009>, <s1050>, <s1010>, 
+        <s1011>, <s1012>, <s1047>, <s1034>, <s1051>, <s1013>, <s1014>, <s1035>, <s1015>, <s1016>, 
+        <s1017>, <s1046>, <s1019>, <s1020>, <s1052>, <s1036>, <s1053>, <s1021>, <s1022>, <s1023>, 
+        <s1037>, <s1038>, <s1043>, <s1054>, <s1055>, <s1056>, <s1024>, <s1025>, <s1057>, <s1026>, 
+        <s1027>, <s1028>, <s1029>, <s1039>, <s1058>, <s1030>, <s1031>, <s1059>, <s1060>, <s1032>, 
+        <s1061>, <s1033>
         .
 
 <s1000> a skos:Concept ;
@@ -28,9 +28,21 @@
     skos:closeMatch oeh:20003 ;
     skos:topConceptOf <> .
 
+<s1048> a skos:Concept ;
+    skos:prefLabel "Arbeitslehre"@de ;
+    skos:altLabel "Arbeitswelt"@de ;
+    skos:closeMatch oeh:020 ;
+    skos:topConceptOf <> .
+
 <s1040> a skos:Concept ;
     skos:prefLabel "Astronomie"@de ;
     skos:closeMatch oeh:46014 ;
+    skos:topConceptOf <> .
+
+<s1049> a skos:Concept ;
+    skos:prefLabel "Berufs- und Studienorientierung"@de ;
+    skos:altLabel "Berufliche Orientierung"@de, "Beruf"@de, "Studium und Beruf"@de ;
+    skos:closeMatch oeh:040 ;
     skos:topConceptOf <> .
 
 <s1001> a skos:Concept ;
@@ -95,6 +107,11 @@
     skos:closeMatch oeh:20002 ;
     skos:topConceptOf <> .
 
+<s1050> a skos:Concept ;
+    skos:prefLabel "Fremdsprachen"@de ;
+    skos:altLabel "Moderne Fremdsprachen"@de, "Fortgeführte Fremdsprachen"@de ;
+    skos:topConceptOf <> .
+
 <s1010> a skos:Concept ;
     skos:prefLabel "Geografie"@de ;
     skos:altLabel "Erdkunde"@de, "Geographie"@de ;
@@ -124,6 +141,11 @@
 
 <s1034> a skos:Concept ;
     skos:prefLabel "Hebräisch"@de ;
+    skos:topConceptOf <> .
+
+<s1051> a skos:Concept ;
+    skos:prefLabel "Herkunftssprachen"@de ;
+    skos:altLabel "Herkunftssprachlicher Unterricht"@de ;
     skos:topConceptOf <> .
 
 <s1013> a skos:Concept ;
@@ -164,9 +186,7 @@
 
 <s1019> a skos:Concept ;
     skos:prefLabel "MINT"@de ;
-    skos:altLabel "Chemie, Physik, Biologie"@de ;
-    skos:altLabel "Naturwissenschaften"@de ;
-    skos:related <s1001>, <s1002>, <s1013>, <s1017>, <s1022> ;
+    skos:related <s1001>, <s1002>, <s1013>, <s1017>, <s1022>, <s1059> ;
     skos:closeMatch oeh:04003 ;
     skos:topConceptOf <> .
 
@@ -175,8 +195,20 @@
     skos:closeMatch oeh:420 ;
     skos:topConceptOf <> .
 
+<s1052> a skos:Concept ;
+    skos:prefLabel "Naturwissenschaften"@de ;
+    skos:altLabel "Angewandte Naturwissenschaften"@de, "Chemie, Physik, Biologie"@de ;
+    skos:related <s1001>, <s1002>, <s1022> ;
+    skos:closeMatch oeh:04003 ;
+    skos:topConceptOf <> .
+
 <s1036> a skos:Concept ;
     skos:prefLabel "Neugriechisch"@de ;
+    skos:topConceptOf <> .
+
+<s1053> a skos:Concept ;
+    skos:prefLabel "Niederdeutsch"@de ;
+    skos:closeMatch oeh:niederdeutsch ;
     skos:topConceptOf <> .
 
 <s1021> a skos:Concept ;
@@ -191,7 +223,7 @@
 
 <s1023> a skos:Concept ;
     skos:prefLabel "Politik"@de ;
-    skos:altLabel "Politische Bildung"@de, "Sozialkunde"@de ;
+    skos:altLabel "Politische Bildung"@de ;
     skos:closeMatch oeh:480 ;
     skos:topConceptOf <> .
 
@@ -208,6 +240,23 @@
     skos:closeMatch oeh:510 ;
     skos:topConceptOf <> .
 
+<s1054> a skos:Concept ;
+    skos:prefLabel "Recht"@de ;
+     skos:altLabel "Rechtskunde"@de ;
+    skos:topConceptOf <> .
+
+<s1055> a skos:Concept ;
+    skos:prefLabel "Religion (konfessionslos)"@de ;
+    skos:altLabel "Religion"@de ;
+    skos:closeMatch oeh:520 ;
+    skos:topConceptOf <> .
+
+<s1056> a skos:Concept ;
+    skos:prefLabel "Religionslehre (alevitisch)"@de ;
+    skos:altLabel "Alevitischer Religionsunterricht"@de ;
+    skos:closeMatch oeh:520 ;
+    skos:topConceptOf <> .
+
 <s1024> a skos:Concept ;
     skos:prefLabel "Religionslehre (evangelische)"@de ;
     skos:altLabel "Evangelischer Religionsunterricht"@de ;
@@ -219,6 +268,12 @@
     skos:altLabel "Islamischer Religionsunterricht"@de ;
     skos:closeMatch oeh:520 ;
     skos:editorialNote "EAF 28009 hat hauptsächlich christliche Themen, aber auch einen Abschnitt mit nicht-christlichen Religionen"@de ;
+    skos:topConceptOf <> .
+
+<s1057> a skos:Concept ;
+    skos:prefLabel "Religionslehre (jüdisch)"@de ;
+    skos:altLabel "Jüdischer Religionsunterricht"@de ;
+    skos:closeMatch oeh:520 ;
     skos:topConceptOf <> .
 
 <s1026> a skos:Concept ;
@@ -249,6 +304,12 @@
     skos:closeMatch oeh:20009 ;
     skos:topConceptOf <> .
 
+<s1058> a skos:Concept ;
+    skos:prefLabel "Sozialkunde"@de ;
+    skos:altLabel "Soziales"@de, "Sozialwissenschaft"@de ;
+    skos:closeMatch oeh:oeh01 ;
+    skos:topConceptOf <> .
+
 <s1030> a skos:Concept ;
     skos:prefLabel "Spanisch"@de ;
     skos:closeMatch oeh:20007 ;
@@ -259,9 +320,25 @@
     skos:closeMatch oeh:600 ;
     skos:topConceptOf <> .
 
+<s1059> a skos:Concept ;
+    skos:prefLabel "Technik"@de ;
+    skos:topConceptOf <> .
+
+<s1060> a skos:Concept ;
+    skos:prefLabel "Textiles Gestalten"@de ;
+    skos:altLabel "Textilgestaltung"@de, "Textillehre"@de ;
+    skos:closeMatch oeh:04012 ;
+    skos:topConceptOf <> .
+
 <s1032> a skos:Concept ;
     skos:prefLabel "Türkisch"@de ;
     skos:closeMatch oeh:20008 ;
+    skos:topConceptOf <> .
+
+<s1061> a skos:Concept ;
+    skos:prefLabel "Werken und Gestalten"@de ;
+    skos:altLabel "Gestaltendes Werken"@de, "Werken"@de, "Gestalten"@de, "Planen, Bauen und Gestalten"@de ;
+    skos:closeMatch oeh:50005 ;
     skos:topConceptOf <> .
 
 <s1033> a skos:Concept ;
