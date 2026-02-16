@@ -83,7 +83,7 @@ Sortiert nach den vergebenen IDs. Für eine alphabetische Sortierung siehe [das 
 | s1052 | "Naturwissenschaften" | "Angewandte Naturwissenschaften", "Chemie, Physik, Biologie"
 | s1053 | "Niederdeutsch" |
 | s1054 | "Recht" | "Rechtskunde"
-| s1055 | "Religion (konfessionslos)" | "Religion"
+| s1055 | "Religion" | "Religion (konfessionslos)"
 | s1056 | "Religionslehre (alevitisch)" | "Alevitischer Religionsunterricht"
 | s1057 | "Religionslehre (jüdisch)" | "Jüdischer Religionsunterricht"
 | s1058 | "Sozialkunde" | "Soziales", "Sozialwissenschaft"
