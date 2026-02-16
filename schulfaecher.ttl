@@ -246,8 +246,8 @@
     skos:topConceptOf <> .
 
 <s1055> a skos:Concept ;
-    skos:prefLabel "Religion (konfessionslos)"@de ;
-    skos:altLabel "Religion"@de ;
+    skos:prefLabel "Religion"@de ;
+    skos:altLabel "Religion (konfessionslos)"@de ;
     skos:closeMatch oeh:520 ;
     skos:topConceptOf <> .
 
