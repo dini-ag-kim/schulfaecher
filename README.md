@@ -6,7 +6,7 @@ Die Werteliste ist ein SKOS-Vokabular und enthält Relationen (`skos:closeMatch`
 
 ## Maintainer\*innen
 
-[Steffen Rörtgen](https://github.com/sroertgen) und [Adrian Pohl](https://github.com/acka47)
+[Steffen Rörtgen](https://github.com/sroertgen)
 
 **Mitarbeit und Kontakt** über [Issues](https://github.com/dini-ag-kim/schulfaecher/issues/), die [Mailingliste der OER-Metadatengruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-oer) oder die [Mailingliste der Curricula-Gruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-curricula).
 
